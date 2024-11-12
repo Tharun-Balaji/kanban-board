@@ -59,4 +59,4 @@ No installation is required; simply open the `index.html` file in a browser.
 
 ## License
 
-This project is open-source and available for use under the [MIT License](LICENSE).
+This project is open-source and available for use under the [MIT License](LICENSE.md).
